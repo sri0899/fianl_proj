@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Bharat Scheme Saathi - Indian Government Scheme AI Assistant",
+  "description": "A bilingual (Tamil & English) AI-powered assistant providing detailed information about Indian government schemes, eligibility, and application processes using curated data.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
